@@ -106,3 +106,52 @@ dimasukkan pertama kali melalui konsol.
     ![alt text](image-5.png)
 
 ### Praktikum 3: Menambahkan Komponen React (Button) 
+
+1. Di dalam folder proyek yang telah dibuka di VS Code, buka file page.tsx
+
+2. Tambahkan fungsi MyButton yang mengembalikan markup komponen button yang akan ditambahkan ke dalam webpage
+
+    ![alt text](image-6.png)
+
+3. Tambahkan komponen button tersebut di samping button Read Our Docs.
+
+    ![alt text](image-7.png)
+
+    Perhatikan bahwa komponen MyButton dimulai dengan huruf kapital. Dengan cara itulah Anda mengetahui bahwa itu adalah sebuah komponen React. Nama komponen React harus selalu dimulai dengan huruf kapital, sedangkan tag HTML harus menggunakan huruf kecil. Kata kunci export default menentukan komponen utama di dalam berkas (file).
+
+4. Simpan perubahan dan coba lihat perubahan melalui web browser!
+
+#### Pertanyaan Praktikum 3
+
+1. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
+
+    ![alt text](image-8.png)
+    ![alt text](image-9.png)
+
+### Praktikum 4: Menulis Markup dengan JSX
+
+1. Tambahkan kode JSX di bawah ini ke dalam file page.tsx.
+
+    ![alt text](image-10.png)
+
+2. Tambahkan komponen MyProfile setelah kompnen MyButton. 
+
+    ![alt text](image-11.png)
+
+3. Simpan dan amati perubahan di halaman web yang dihasilkan!
+
+#### Pertanyaan Praktikum 4
+
+1. Untuk apakah kegunaan sintaks user.imageUrl?
+
+    <b>Jawaban:</b>
+
+    Sintaks user.imageUrl digunakan untuk mengambil nilai dari properti imageUrl yang ada di objek user.
+
+2. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
+
+    <b>Jawaban:</b>
+
+    ![alt text](image-12.png)
+    ![alt text](image-13.png)
+    ![alt text](image-14.png)
