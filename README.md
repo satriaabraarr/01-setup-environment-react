@@ -22,7 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Laporan Praktikum
 
-|  | Pemrograman Berbasis Framework 2024 |
+|  | Pemrograman Berbasis Framework 2025 |
 |--|--|
 | NIM |  2241720260|
 | Nama |  Satria Abrar S.W.P |
